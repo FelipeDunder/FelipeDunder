@@ -2,9 +2,11 @@
 
 
 <p align="left">
-My name is Felipe Dunder. I'm currently studyng IT wiyh a focus on systems on FIAP.
+My name is Felipe Dunder. I'm currently studyng IT with a focus on systems on FIAP.
 
 I am currently studying Web Developer (HTML,CSS,JS,Bootstrap), but I have studied Python anda DataBase (Oracle Data Modeler and SQL). 
+
+Currently, I work at Mann+Hummel as an IT Intern. I use Power Platform and Python for daily tasks.
 </p>
 
 
